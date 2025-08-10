@@ -75,4 +75,5 @@ This score can help prioritize alerts or highlight suspicious senders in dashboa
 ---
 
 ## OUTPUT
-
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/5b404df9-0d01-408e-b100-43d6fb74ddbb" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ab5ff967-df6b-49e7-ad6b-14820247b060" />
